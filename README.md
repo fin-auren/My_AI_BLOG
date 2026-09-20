@@ -8,10 +8,10 @@ In this blog, we explore 20 stocks that are participating in India’s massive d
 
 
 
-* **Land & Infrastructure Developers:** Anantraj Limited, Lodha Developers, Mindspace REIT, and Yotta Data Services (05:05-06:54). 
-* **Engineering & Construction (EPC):** Larsen & Toubro (L&T) and KEC International (06:54-08:32). 
-* **Integrated Infrastructure Conglomerates:** Reliance Industries, Adani Group, Bharti Airtel (Nxtra), and Tata Consultancy Services (TCS) (08:32-11:18). 
-* **Power & Electrical Infrastructure:** CG Power, GE Vernova T&D India, Hitachi Energy India, Siemens, ABB India, Cummins India, and TD Power Systems (11:18-14:35). 
-* **Thermal Management (Cooling):** Blue Star, Thermax, and KRN Heat Exchanger and Refrigeration (17:10-18:46). 
-* **Cables & Connectivity:** Apar Industries, KEI Industries, Sterlite Technologies, and HFCL (18:46-21:01). 
-* **Computing Infrastructure:** Netweb Technologies and E2E Networks (21:01-22:16).
+* **Land & Infrastructure Developers:** Anantraj Limited, Lodha Developers, Mindspace REIT, and Yotta Data Services 
+* **Engineering & Construction (EPC):** Larsen & Toubro (L&T) and KEC International 
+* **Integrated Infrastructure Conglomerates:** Reliance Industries, Adani Group, Bharti Airtel (Nxtra), and Tata Consultancy Services (TCS) 
+* **Power & Electrical Infrastructure:** CG Power, GE Vernova T&D India, Hitachi Energy India, Siemens, ABB India, Cummins India, and TD Power Systems 
+* **Thermal Management (Cooling):** Blue Star, Thermax, and KRN Heat Exchanger and Refrigeration  
+* **Cables & Connectivity:** Apar Industries, KEI Industries, Sterlite Technologies, and HFCL 
+* **Computing Infrastructure:** Netweb Technologies and E2E Networks 
