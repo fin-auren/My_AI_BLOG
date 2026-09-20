@@ -1,4 +1,4 @@
-India’s Data Centre Opportunity
+# India’s Data Centre Opportunity - 20 Sept 2026
 
 India’s data centre industry is entering a period of rapid expansion. With current capacity at approximately 1.7 GW, the country’s data centre capacity is projected to grow to 7–9 GW by 2030.
 
